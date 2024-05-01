@@ -1,0 +1,12 @@
+home ():
+    loop from 0 to 100 on n
+        if n mod 15 is equivalent to 0 then
+        print 'FizzBuzz'
+        elseif n mod 3 is equivalent to 0 then
+        print 'Fizz'
+        elseif n mod 5 is equivalent to 0 then
+        print 'Buzz'
+        else then
+        print n
+        end if
+    end loop

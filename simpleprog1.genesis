@@ -1,0 +1,6 @@
+home ():
+    int myVariable equals 20
+    str myName equals 'Carlos'
+    print 'Hello World'
+    print myVariable
+    print 'My name is ', myName

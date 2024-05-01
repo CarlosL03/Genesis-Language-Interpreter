@@ -1,0 +1,8 @@
+home ():
+    int myNum equals 5
+    if False then
+    add 3 to myNum
+    else then
+    add -2 to myNum
+    end if
+    print myNum
